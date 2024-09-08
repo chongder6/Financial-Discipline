@@ -1,7 +1,8 @@
-[![MasterHead]([https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif))]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">привет👋, I'm Arijit Chongder</h1>
 <h3 align="center">A passionate Developer & a Технофил from India</h3>
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 - 🌱 I’m currently learning **React | Node | AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chongder6](https://github.com/chongder6)
