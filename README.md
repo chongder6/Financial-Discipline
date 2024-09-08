@@ -2,7 +2,7 @@
 <h1 align="center">привет👋, I'm Arijit Chongder</h1>
 <h3 align="center">A passionate Developer & a Технофил from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **React | Node | AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chongder6](https://github.com/chongder6)
