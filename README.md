@@ -1,4 +1,4 @@
-![MasterHead]([https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif))
+[![MasterHead]([https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif))]
 <h1 align="center">привет👋, I'm Arijit Chongder</h1>
 <h3 align="center">A passionate Developer & a Технофил from India</h3>
 
